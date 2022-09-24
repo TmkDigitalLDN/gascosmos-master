@@ -33,6 +33,7 @@ const LegalLocalStorage = () => {
           >
             I am over 18
           </button> 
+          <br />
           <button
             className="redBtn"
             onClick={() => (global.location.href = "https://www.google.com")}
