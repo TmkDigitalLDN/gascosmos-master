@@ -19,7 +19,7 @@ const LegalLocalStorage = () => {
     <div id="legal">
       <section>
         <header>
-          Warning You Must Be A Trade Company And Over 18+ To Use This Site.
+         <h6> Warning You Must Be A Trade Company And Over 18+ To Use This Site. </h6>
         </header>
         <br />    
         <br />
