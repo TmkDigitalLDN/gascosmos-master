@@ -25,7 +25,7 @@ const LegalLocalStorage = () => {
         <br />
         <br />
           <div>
-          <button
+          <button style={{marginRight: '10px'}}
             className="greenBtn"
             onClick={() => (
               setOpen(1), global.localStorage.setItem("legal-accept", "1")
