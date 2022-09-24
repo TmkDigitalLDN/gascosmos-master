@@ -31,14 +31,14 @@ const LegalLocalStorage = () => {
               setOpen(1), global.localStorage.setItem("legal-accept", "1")
             )}
           >
-            I meet the requirements
+            I meet the requirements.
           </button> 
           <br />
           <button
             className="redBtn"
             onClick={() => (global.location.href = "https://www.google.com")}
           >
-            I do not
+            I do not.
           </button>
         </div>
       </section>
