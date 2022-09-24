@@ -93,7 +93,7 @@ const IndexPage = () => (
         <div className="inner">
           <h2 className="major">About Us</h2>
           <p>
-          Gas Cosmos specialises in producing high-quality CO2, N2O and Specialist Gas products. Gas Cosmos works alongside companies that are the official agent for both Liss and Mosa, supplying their products throughout the UK, Spain, Portugal and Ireland. Our company have been in operation since 2018. We understand market-leading quality. Gastro, Mosa & Infusion is built upon this very same dedication to quality of product and customer service. GasCosmos deals with many popular brands like Gastro, Instant infusion, Mosa , Roselle & More
+          Gascosmos specialises in producing high-quality CO2, N2O and Specialist Gas products. Gas Cosmos works alongside companies that are the official agent for both Liss and Mosa, supplying their products throughout the UK, Spain, Portugal and Ireland. Our company have been in operation since 2018. We understand market-leading quality. Gastro, Mosa & Infusion is built upon this very same dedication to quality of product and customer service. GasCosmos deals with many popular brands like Gastro, Instant infusion, Mosa , Roselle & More
           </p>
           <h2 className="major">Working with us</h2>
           <p>
