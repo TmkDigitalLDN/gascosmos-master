@@ -23,7 +23,7 @@ const LegalLocalStorage = () => {
         </header>
         <br />    
         <br />
-        
+        <br />
           <div>
           <button
             className="greenBtn"
@@ -32,9 +32,7 @@ const LegalLocalStorage = () => {
             )}
           >
             I meet all the requirements
-          </button>
-
-          br  
+          </button> 
           <button
             className="redBtn"
             onClick={() => (global.location.href = "https://www.google.com")}
