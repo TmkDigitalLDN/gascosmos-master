@@ -33,6 +33,8 @@ const LegalLocalStorage = () => {
           >
             I meet all the requirements
           </button>
+
+          br  
           <button
             className="redBtn"
             onClick={() => (global.location.href = "https://www.google.com")}
