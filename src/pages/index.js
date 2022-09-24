@@ -5,10 +5,7 @@ import logo from '../assets/images/logo.png';
 import pic1 from '../assets/images/chargers.jpg';
 import pic2 from '../assets/images/canisterGrey.jpg';
 import pic3 from '../assets/images/canisterSilver.jpg';
-import pic4 from '../assets/images/pic04.jpg';
-import pic5 from '../assets/images/pic05.jpg';
-import pic6 from '../assets/images/pic06.jpg';
-import pic7 from '../assets/images/pic07.jpg';
+
 
 import config from '../../config';
 const IndexPage = () => (
@@ -96,13 +93,7 @@ const IndexPage = () => (
         <div className="inner">
           <h2 className="major">About Us</h2>
           <p>
-          Gas Cosmos specialises in producing high-quality CO2, N2O and Specialist Gas products. 
-
-          Gas Cosmos Ltd are the official agent for both Liss and Mosa, supplying their products throughout the UK, Spain, Portugal and Ireland.
-
-Our company have been in operation since 2013
-
-Working with Liss and Mosa, we understand market-leading quality. Our brand, Gastro, is built upon this very same dedication to quality of product and customer service.
+          Gas Cosmos specialises in producing high-quality CO2, N2O and Specialist Gas products. Gas Cosmos works alongside companies that are the official agent for both Liss and Mosa, supplying their products throughout the UK, Spain, Portugal and Ireland. Our company have been in operation since 2018. We understand market-leading quality. Gastro, Mosa & Infusion is built upon this very same dedication to quality of product and customer service.
           </p>
           <h2 className="major">Working with us</h2>
           <p>
