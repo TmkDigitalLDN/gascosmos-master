@@ -31,14 +31,14 @@ const LegalLocalStorage = () => {
               setOpen(1), global.localStorage.setItem("legal-accept", "1")
             )}
           >
-            I am over 18
+            I meet the requirements
           </button> 
           <br />
           <button
             className="redBtn"
             onClick={() => (global.location.href = "https://www.google.com")}
           >
-            Decline
+            I do not meet the requirements
           </button>
         </div>
       </section>
