@@ -16,7 +16,7 @@ module.exports = {
     {
       icon: 'fa-instagram',
       name: 'Instagram',
-      url: 'https://instagram.com/gascosmos/',
+      url: 'https://www.instagram.com/gascosmoseu/',
     },
 
     {
@@ -27,9 +27,9 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'info@gascosmos.com',
+      url: 'info@gascosmos.co.UK',
     },
   ],
-  phone: '07423 541 020',
+  phone: '07557055842',
   address: '19-21 Swan street, West Malling, ME19 6JU',
 };

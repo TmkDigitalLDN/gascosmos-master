@@ -93,7 +93,7 @@ const IndexPage = () => (
         <div className="inner">
           <h2 className="major">About Us</h2>
           <p>
-          Gas Cosmos specialises in producing high-quality CO2, N2O and Specialist Gas products. Gas Cosmos works alongside companies that are the official agent for both Liss and Mosa, supplying their products throughout the UK, Spain, Portugal and Ireland. Our company have been in operation since 2018. We understand market-leading quality. Gastro, Mosa & Infusion is built upon this very same dedication to quality of product and customer service.
+          Gas Cosmos specialises in producing high-quality CO2, N2O and Specialist Gas products. Gas Cosmos works alongside companies that are the official agent for both Liss and Mosa, supplying their products throughout the UK, Spain, Portugal and Ireland. Our company have been in operation since 2018. We understand market-leading quality. Gastro, Mosa & Infusion is built upon this very same dedication to quality of product and customer service. GasCosmos deals with many popular brands like Gastro, Instant infusion, Mosa , Roselle & More
           </p>
           <h2 className="major">Working with us</h2>
           <p>
@@ -103,7 +103,7 @@ We are a B2B company supplying Trade Only worldwide.
 
 As a distributor, you can take comfortable in the knowledge that you are dealing directly with the only Worldwide agent, to be officially appointed as an agent for 3 of the World’s Leading manufacturers, Mosa, Gastro and Liss.
 
-In addition to being an officially registered UK company, as well as having our own manufactured and registered trademarked brand Gas Cosmos ltd.
+
 
 We do not work with, nor do we recommend anyone works with, middle-men or agents who are non-manufacturer appointed. They are supplying outside of their remit. Stock from such middle-men, agents, 3rd parties etc., is subject to seizure for many reasons; un-verifiable origin, not-genuine, labelling not in strict accordance with EU 169/2011 EK regulations and Worldwide Food Standard requirements, incorrect import duty or tax declarations and often with total disregard to responsible Terms of Use Policy and Charger and Whipper Safety Guidelines.</p>
 
