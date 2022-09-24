@@ -21,7 +21,10 @@ const LegalLocalStorage = () => {
         <header>
           Warning You Must Be A Trade Company And Over 18+ To Use This Site.
         </header>
-        <div>
+        <br />    
+        <br />
+        
+          <div>
           <button
             className="greenBtn"
             onClick={() => (
