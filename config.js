@@ -10,7 +10,7 @@ module.exports = {
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Gas Gosmos',
   subHeading: "Leading C02, N20 Gas Supplies. We have recently launched Gastro Cream Chargers to B2B Trade Only agents to enable their business to become an area or worldwide wholesale and retail distributor. With constant stock availability, we are committed to providing agents with the world's leading and most Cost-Effective High-Quality N2O Cream Chargers, Whipped Cream Dispensers and CO2 Cartridges.",
-  // social
+  // Social
   socialLinks: [
 
     {
@@ -27,7 +27,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'info@gascosmos.co.UK',
+      url: 'info@gascosmos.co.uk',
     },
   ],
   phone: '07557055842',

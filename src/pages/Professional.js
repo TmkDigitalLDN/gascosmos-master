@@ -1,11 +1,6 @@
 import React from 'react';
-
 import Layout from '../components/Layout';
-import pic4 from '../assets/images/multiChargers.png';
-import pic5 from '../assets/images/infusion.jpg';
-import pic6 from '../assets/images/aromatic.jpg';
-import pic7 from '../assets/images/filling.jpg';
-import pic8 from '../assets/images/espuma.jpg';
+
 
 const IndexPage = () => (
   <Layout fullMenu>

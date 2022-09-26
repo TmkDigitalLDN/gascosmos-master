@@ -32,9 +32,9 @@ export default function Nav({ onMenuToggle = () => {} }) {
               onClick={e => {
                 onMenuToggle();
               }}
-              to="/Grey"
+              to="/InstantFusions"
             >
-              Gastro Grey
+              Instant Fusions
             </Link>
           </li>
           <li>

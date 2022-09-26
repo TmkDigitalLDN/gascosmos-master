@@ -1,9 +1,10 @@
 import React from 'react';
-
 import Layout from '../components/Layout';
 import pic4 from '../assets/images/mosapic.jpg';
 import pic5 from '../assets/images/canisterSilver.jpg';
-import pic6 from '../assets/images/list.jpg';
+
+
+
 const IndexPage = () => (
   <Layout fullMenu>
     <section id="wrapper">

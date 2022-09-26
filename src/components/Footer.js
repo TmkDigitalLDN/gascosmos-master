@@ -1,7 +1,10 @@
 import React from 'react';
 import Form from './Form';
-
 import config from '../../config';
+
+
+
+
 export default function Footer() {
   return (
     <section id="footer">
@@ -13,7 +16,6 @@ export default function Footer() {
        <Form></Form>
         <ul className="contact">
           <li className="fa-home">{config.address}</li>
-
           <li className="fa-phone">{config.phone}</li>
 
           {config.socialLinks.map(social => {
@@ -27,8 +29,7 @@ export default function Footer() {
           })}
         </ul>
         <ul className="copyright">
-        <li>&copy; {new Date().getFullYear()} Gas Cosmos. All rights reserved.</li>
-        
+        <li>&copy; {new Date().getFullYear()} GasCosmos. All rights reserved.</li> 
         </ul>
       </div>
     </section>

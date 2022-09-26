@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Layout from '../components/Layout';
 import pic4 from '../assets/images/chargers.jpg';
 import pic5 from '../assets/images/canisterSilver.jpg';

@@ -1,15 +1,19 @@
 import React from 'react';
-
 import Layout from '../components/Layout';
 import logo from '../assets/images/logo.png';
 import pic1 from '../assets/images/chargers.jpg';
 import pic2 from '../assets/images/canisterGrey.jpg';
 import pic3 from '../assets/images/canisterSilver.jpg';
-
-
 import config from '../../config';
+
+
+
 const IndexPage = () => (
+
+
   <Layout>
+     <title>GascosMos - Official Home Page</title>
+    <meta name="description" content="Gascosmos Website" />
     <section id="banner">
       <div className="inner">
         <h2><img src={logo}></img></h2>
@@ -43,7 +47,7 @@ const IndexPage = () => (
 
       <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
-          <a href="/Grey" className="image">
+          <a href="/InstantFusions" className="image">
             <img src={pic2} alt="" />
           </a>
           <div className="content">
