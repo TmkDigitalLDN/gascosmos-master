@@ -47,7 +47,7 @@ const IndexPage = () => (
 
       <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
-          <a href="/InstantFusions" className="image">
+          <a href="/InfusoSoda" className="image">
             <img src={pic2} alt="" />
           </a>
           <div className="content">

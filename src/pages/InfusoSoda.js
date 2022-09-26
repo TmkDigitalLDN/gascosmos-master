@@ -18,7 +18,7 @@ const IndexPage = () => (
     <section id="wrapper">
       <header>
         <div className="inner">
-          <h2>Instant Infusions</h2>
+          <h2>Infuso Soda</h2>
         </div>
       </header>
 
