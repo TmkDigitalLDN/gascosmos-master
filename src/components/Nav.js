@@ -32,9 +32,9 @@ export default function Nav({ onMenuToggle = () => {} }) {
               onClick={e => {
                 onMenuToggle();
               }}
-              to="/InstantFusions"
+              to="/InstantInfusions"
             >
-              Instant Fusions
+              Instant InFusions
             </Link>
           </li>
           <li>
