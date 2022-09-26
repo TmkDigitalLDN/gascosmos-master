@@ -59,7 +59,7 @@ const IndexPage = () => (
 
 
 
-<p><strong>How to tell us about problems</strong>. If you have any questions or complaints about the product, please contact us. You can write to us at&nbsp;<a href="info@gascosmos.co.ukmailto:sales@wholesalechargers.net"><em>info@gascosmos.co.uk</em></a>, The Station House, 15 Station Road, St. Ives, United Kingdom, PE27 5BH.</p>
+<p><strong>How to tell us about problems</strong>. If you have any questions or complaints about the product, please contact us. You can write to us at&nbsp;<a href="mailto:info@gascosmos.co.uk"><em>info@gascosmos.co.uk</em></a> 19-21 Swan street, West Malling, ME19 6JU, United Kingdom</p>
 
 
 
@@ -148,7 +148,7 @@ We offer a fantastic choice of high performance gas cylinders, from some of the 
 <p>TERMS and CONDITIONS</p>
 <p></p>
 <p></p>
-<p>To protect your own interests please read the conditions carefully before you order or accept delivery. If you are uncertain as to your rights under them or you want any explanation about them please CONTACT customer queries or email&nbsp;<a href="mailto:info@gascosmos.co.uk">info@wholesalechargers.net</a>&nbsp;BEFORE you place or accept the order. YOU ARE ADVISED TO PRINT AND RETAIN THESE TERMS FOR YOUR RECORDS.<br />By placing an Order and purchasing goods from&nbsp;<a href="http://www.gascosmos.co.uk">www.gascosmos.co.uk</a>&nbsp;you enter into a legally binding agreement with us on the following Conditions. You should read and understand these Conditions because they affect your rights and liabilities.</p>
+<p>To protect your own interests please read the conditions carefully before you order or accept delivery. If you are uncertain as to your rights under them or you want any explanation about them please CONTACT customer queries or email&nbsp;<a href="mailto:info@gascosmos.co.uk">info@gascosmos.co.uk</a>&nbsp;BEFORE you place or accept the order. YOU ARE ADVISED TO PRINT AND RETAIN THESE TERMS FOR YOUR RECORDS.<br />By placing an Order and purchasing goods from&nbsp;<a href="http://www.gascosmos.co.uk">www.gascosmos.co.uk</a>&nbsp;you enter into a legally binding agreement with us on the following Conditions. You should read and understand these Conditions because they affect your rights and liabilities.</p>
 <p></p>
 <p></p>
 <p>These are the Standard Terms and Conditions of wholesalecreamchargers.com (&ldquo;the Seller&rdquo;, &ldquo;We&rdquo; or &ldquo;Us&rdquo;) for certain products as set out in the pages on this site or on any promotional material distributed (&ldquo;the Goods&rdquo;).<br />In accordance with the provisions of the Consumer Protection (Distance Selling) Regulations 2000, you have the right to withdraw from this transaction. Details of your right to withdraw will be sent to you with the Goods when they are delivered and can be found in Clause 9 below.</p>
