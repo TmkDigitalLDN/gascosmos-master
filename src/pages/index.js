@@ -5,6 +5,7 @@ import pic1 from '../assets/images/chargers.jpg';
 import pic2 from '../assets/images/canisterGrey.jpg';
 import pic3 from '../assets/images/canisterSilver.jpg';
 import config from '../../config';
+import { Helmet } from 'react-helmet';
 
 
 
@@ -12,7 +13,7 @@ const IndexPage = () => (
 
 
   <Layout>
-     <title>GascosMos - Official Home Page</title>
+     <title>Gasccosmos - Official Home Page</title>
     <meta name="description" content="Gascosmos Website" />
     <section id="banner">
       <div className="inner">
